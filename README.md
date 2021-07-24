@@ -25,8 +25,7 @@
 ### 2. Marco Teorico: 
 
 ### Capitulo 11 
-
-![png (4)](https://user-images.githubusercontent.com/84789076/126857880-b490024c-7070-45d9-909b-b6f86479c3ae.png)
+![png (5)](https://user-images.githubusercontent.com/84789076/126857975-a1c7eb79-5d64-474e-a471-5ee1e37e48f5.png)
 
 ![image](https://user-images.githubusercontent.com/84789076/126856979-ee29e8a1-c499-4423-b9e7-a3d208f1bb74.png)
 
