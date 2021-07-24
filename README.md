@@ -26,8 +26,9 @@
 
 ### Capitulo 11 
 
-![image](https://user-images.githubusercontent.com/84789076/126856979-ee29e8a1-c499-4423-b9e7-a3d208f1bb74.png)
+![png (4)](https://user-images.githubusercontent.com/84789076/126857880-b490024c-7070-45d9-909b-b6f86479c3ae.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126856979-ee29e8a1-c499-4423-b9e7-a3d208f1bb74.png)
 
 ### Capítulo 12 
 
