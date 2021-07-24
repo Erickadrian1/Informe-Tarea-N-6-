@@ -32,6 +32,9 @@
 
 ### Capítulo 12 
 
+![image](https://user-images.githubusercontent.com/85208164/126858233-7259f837-a1a7-4ec0-86ae-47cd40605aea.png)
+
+
 ## 3. Explicación y Resolución de ejercicios o problemas: 
 
 ### Ejercicios Capítulo 11
