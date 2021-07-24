@@ -26,6 +26,9 @@
 
 ### Capitulo 11 
 
+![image](https://user-images.githubusercontent.com/84789076/126856410-d394d214-c220-49ee-9337-0b5fc3abde28.png)
+
+
 ### Capítulo 12 
 
 ## 3. Explicación y Resolución de ejercicios o problemas: 
