@@ -174,6 +174,25 @@ b. Si Φ=28mWB, ¿Cuál es la densidad de flujo en Teslas?
 
 ![image](https://user-images.githubusercontent.com/84588860/127231971-a32f61ac-a54b-4a76-bc35-4e2cd919fe87.png)
 
+3.	El toroide de la figura 12-42 tiene una sección transversal circular y Φ = 628µWb. Si r1=8cm y r2=12cm, ¿Cuál es la densidad de flujo en Teslas?
+
+![image](https://user-images.githubusercontent.com/84588860/127232185-75d006ca-b7c1-4f4a-930c-a8fb1c862853.png)
+
+![image](https://user-images.githubusercontent.com/84588860/127232226-bbd8d947-e8a3-473f-82b9-56dad75e4f0a.png)
+
+5.	 Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04m. tiene un factor de apilamiento de 0.85 y B = 1.45 T, ¿Qué valor tiene Φ en webers?
+
+![image](https://user-images.githubusercontent.com/84588860/127232321-e989a5ef-c97f-4d4b-bce2-77d6a5e374d4.png)
+
+![image](https://user-images.githubusercontent.com/84588860/127232348-b2551fcb-f695-4e60-98c7-a754e0232dc8.png)
+
+7.	Para la Sección del Núcleo de hierro de la figura 12-45, si Φ1=12mWb y Φ3=2mWb, ¿Cuánto vale B2?
+
+![image](https://user-images.githubusercontent.com/84588860/127232502-30c91a8c-6dd2-446b-82f6-0c826ebc3f0c.png)
+
+
+
+
 13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
 ![image](https://user-images.githubusercontent.com/84594486/127229169-ea518dbc-9970-44f4-b08f-db585911a026.png)
