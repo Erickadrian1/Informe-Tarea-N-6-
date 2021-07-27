@@ -145,7 +145,18 @@ a. ¿Cuál es el periodo?
  c. ¿Cuál es el VRP?
  
  ![image](https://user-images.githubusercontent.com/84588860/127231184-f0fa6107-8ff1-40da-939a-23a055336ad4.png)
+ 
+ 41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64. 
+ 
+ ![image](https://user-images.githubusercontent.com/84588860/127231385-7a5a1b2f-b6cf-4c32-ade8-e3268d7ec3c9.png)
 
+![image](https://user-images.githubusercontent.com/84588860/127231447-07671cd2-5aaf-4dbd-965c-dd493b5b81e7.png)
+ 
+43. Se aplica un escalón al circuito de la figura 11-66. Si R=150Ω y C = 20 pF, estime el tiempo que tarda en subir el voltaje de salida. 
+
+![image](https://user-images.githubusercontent.com/84588860/127231535-b8d11d1e-f43d-47e2-81a2-c946e5895ab9.png)
+
+![image](https://user-images.githubusercontent.com/84588860/127231562-ba0342be-033a-4a3b-b7d9-53bd4fc98160.png)
 
 
 ### Ejercicios Capítulo 12 
