@@ -130,7 +130,23 @@ Por sustitución directa, calcule los valores en t= 0+ s, 20, 40, 60, 80 y 100 m
 
 ![image](https://user-images.githubusercontent.com/84789076/127081898-2fa945c4-ffec-4431-9b83-d0e3dfb99863.png)
 
-39. 
+39. Considere la forma de onda de la figura 11-62. 
+
+![image](https://user-images.githubusercontent.com/84588860/127231013-7576e3c4-8b6c-4a4e-b901-8e4e0cbdcb2c.png)
+
+a. ¿Cuál es el periodo?
+
+![image](https://user-images.githubusercontent.com/84588860/127231075-d70c7b54-1a43-401e-9faf-06b46c79d04e.png)
+
+ b. ¿Cuál es el ciclo de trabajo?
+ 
+ ![image](https://user-images.githubusercontent.com/84588860/127231156-d0d95bc4-a252-40a9-a8ed-33daa943c8dc.png)
+
+ c. ¿Cuál es el VRP?
+ 
+ ![image](https://user-images.githubusercontent.com/84588860/127231184-f0fa6107-8ff1-40da-939a-23a055336ad4.png)
+
+
 
 ### Ejercicios Capítulo 12 
 
