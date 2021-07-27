@@ -130,6 +130,8 @@ Por sustitución directa, calcule los valores en t= 0+ s, 20, 40, 60, 80 y 100 m
 
 ![image](https://user-images.githubusercontent.com/84789076/127081898-2fa945c4-ffec-4431-9b83-d0e3dfb99863.png)
 
+39. 
+
 ### Ejercicios Capítulo 12 
 
 ## 4. Video: 
