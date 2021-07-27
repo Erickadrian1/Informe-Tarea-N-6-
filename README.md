@@ -161,6 +161,18 @@ a. ¿Cuál es el periodo?
 
 ### Ejercicios Capítulo 12 
 
+1.	Vea la figura 12-41:
+
+![image](https://user-images.githubusercontent.com/84588860/127231898-16e53682-d542-4d11-83d1-c7c5b0bd2002.png)
+
+
+a. ¿Que Area, A1 o A2 , utilizaria para calcular la densidas de flujo?
+
+Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra proporcionando el flujo total que pasa perpendicularmente a través de un área por el tamaño del área. 
+
+b. Si Φ=28mWB, ¿Cuál es la densidad de flujo en Teslas? 
+
+![image](https://user-images.githubusercontent.com/84588860/127231971-a32f61ac-a54b-4a76-bc35-4e2cd919fe87.png)
 
 13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
