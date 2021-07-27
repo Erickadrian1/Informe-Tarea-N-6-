@@ -61,6 +61,8 @@
 
 ![image](https://user-images.githubusercontent.com/84789076/127081232-34f25cde-3c6c-46fb-994a-24adf77584fe.png)
 
+![image](https://user-images.githubusercontent.com/84789076/127241465-a2d7d94b-2377-469c-8137-33c12cc715ba.png)
+
 **3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?** 
 
 Parece como un cortocircuito en el instante de conmutación
