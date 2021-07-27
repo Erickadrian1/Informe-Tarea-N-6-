@@ -135,6 +135,134 @@ Continuidad para el voltaje del capacitor. Si el cierre del interruptor ocurre e
 
 ![image](https://user-images.githubusercontent.com/84789076/127081898-2fa945c4-ffec-4431-9b83-d0e3dfb99863.png)
 
+
+21. Para el capacitor de la figura 11-51, V0 = 30 V.
+
+![image](https://user-images.githubusercontent.com/85208164/127238056-acfd2923-b43f-4f85-b571-4f409286d0c7.png)
+
+a. Determine la expresión para el voltaje de carga vC.
+
+![image](https://user-images.githubusercontent.com/85208164/127238047-4ade214b-756e-40c5-bde7-52adf89eb64e.png)
+
+b. Determine la expresión para la corriente iC.
+
+![image](https://user-images.githubusercontent.com/85208164/127238032-81c02f9a-be75-4ad1-9417-a02086ce217a.png)
+
+c. Grafique vC e iC.
+
+![image](https://user-images.githubusercontent.com/85208164/127238014-6da72710-0d87-4f59-bd25-75039d1a4259.png)
+![image](https://user-images.githubusercontent.com/85208164/127238019-66a2cf42-e7e7-4979-97db-0e4cc34842d6.png)
+
+
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de 
+que el interruptor se cierre.
+
+![image](https://user-images.githubusercontent.com/85208164/127238077-ae0fabba-1f4c-425f-889d-d425426ed8d0.png)
+![image](https://user-images.githubusercontent.com/85208164/127238089-93085fdd-ff24-4858-94f6-cdbc9ba6b5c6.png)
+
+a. Determine la ecuación para el voltaje de descarga vC.
+
+![image](https://user-images.githubusercontent.com/85208164/127238102-099c477d-eef5-44ae-9d7d-ffd5b265a2a3.png)
+
+b. Determine la ecuación para la corriente de descarga iC.
+
+![image](https://user-images.githubusercontent.com/85208164/127238108-b6281a26-7f93-482d-9a59-5c4f35439e8d.png)
+
+
+c. Determine la constante de tiempo del circuito.
+
+![image](https://user-images.githubusercontent.com/85208164/127238125-cd8ce533-c87c-45b7-9719-b8cad0455ab4.png)
+
+
+d. Calcule vC e iC en t = 0 s, t = t, 2, 3, 4, y 5t.
+
+![image](https://user-images.githubusercontent.com/85208164/127238151-e9a1bf9e-4098-4e06-8d41-da4a418110be.png)
+
+e. Grafique los resultados del inciso (d) con el eje del tiempo con escalas de segundos y de constantes de tiempo.
+
+Voltaje-Tiempo
+
+![image](https://user-images.githubusercontent.com/85208164/127238196-d18b0628-920b-46d8-8bce-5efe53a0b5d1.png)
+
+
+Corriente-Tiempo
+
+![image](https://user-images.githubusercontent.com/85208164/127238209-ec459afe-7e0b-4c0f-93ff-2cbcbcdcf1b2.png)
+
+
+
+25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 kse conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
+
+![image](https://user-images.githubusercontent.com/85208164/127238233-2f35a94c-8993-437d-a1d3-1e552a4d078e.png)
+
+
+27. Para la figura 11-54, sea E 200 V, R2 1 k y C 0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
+
+
+![image](https://user-images.githubusercontent.com/85208164/127238239-e7ab75c9-d01e-4a63-a569-f198b95fda41.png)
+
+ 
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente? 
+
+![image](https://user-images.githubusercontent.com/85208164/127238272-06246f60-4cb5-4087-958b-ef7a1a382033.png)
+![image](https://user-images.githubusercontent.com/85208164/127238278-5efce762-8e25-4be2-8fec-8e27092d5468.png)
+
+
+b. ¿Cuál es la constante de tiempo de descarga? 
+
+![image](https://user-images.githubusercontent.com/85208164/127238291-065f0d2e-b594-4cbd-97bd-caa84afe44e8.png)
+
+c. Determine las ecuaciones de descarga para vC e iC
+
+![image](https://user-images.githubusercontent.com/85208164/127238297-b7872ed2-205b-44b7-b39f-bbc771160ae8.png)
+
+
+29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t =0. Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/85208164/127238318-5045ca52-aba7-411d-b9bf-0eee69079d87.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238323-72734194-045c-449f-98de-c40396ac37f2.png)
+![image](https://user-images.githubusercontent.com/85208164/127238332-668ec047-88e0-4abf-8b35-2bd187370141.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238337-6bcccfa4-24cc-4651-9eff-d91e744dba8b.png)
+![image](https://user-images.githubusercontent.com/85208164/127238341-35f40c7d-9ff8-48f7-852b-7eb0dd11e40f.png)
+
+
+
+31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
+![image](https://user-images.githubusercontent.com/85208164/127238405-7c27e93e-9c2d-46d9-8490-a1363a11c14b.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238401-1c578734-2b34-4802-ac21-166282d9afa4.png)
+
+
+
+
+
+33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado. El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
+
+
+![image](https://user-images.githubusercontent.com/85208164/127238427-e7f2e4b1-6a90-4dbc-8f76-71a14a229a92.png)
+![image](https://user-images.githubusercontent.com/85208164/127238438-48a6ca8f-1089-4eb2-9e7a-e9cb78cc0c44.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238450-584ce62b-0f3b-4bfd-bcac-b180928fa14b.png)
+
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.
+
+
+![image](https://user-images.githubusercontent.com/85208164/127238454-523a9441-7865-4647-a28b-c91f8af1092f.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238463-f5d41d25-9d42-45e6-954c-973b40863517.png)
+
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 k y la alarma es activada en 15 s cuando vC = 3.8 V, ¿qué valor tiene C?
+
+![image](https://user-images.githubusercontent.com/85208164/127238469-a47c832d-9cb9-4c82-923e-9cf005e0aaa4.png)
+
+![image](https://user-images.githubusercontent.com/85208164/127238478-28ba654c-0577-43bf-ba49-41612d03dde2.png)
+
+
 **39. Considere la forma de onda de la figura 11-62.** 
 
 ![image](https://user-images.githubusercontent.com/84588860/127231013-7576e3c4-8b6c-4a4e-b901-8e4e0cbdcb2c.png)
