@@ -174,7 +174,7 @@ b. Si Φ=28mWB, ¿Cuál es la densidad de flujo en Teslas?
 
 ![image](https://user-images.githubusercontent.com/84588860/127231971-a32f61ac-a54b-4a76-bc35-4e2cd919fe87.png)
 
-3.	El toroide de la figura 12-42 tiene una sección transversal circular y Φ = 628µWb. Si r1=8cm y r2=12cm, ¿Cuál es la densidad de flujo en Teslas?
+3.	El toroide de la figura 12-42 tiene una sección transversal circular y Φ=628µWb. Si r1=8cm y r2=12cm, ¿Cuál es la densidad de flujo en Teslas?
 
 ![image](https://user-images.githubusercontent.com/84588860/127232185-75d006ca-b7c1-4f4a-930c-a8fb1c862853.png)
 
@@ -190,8 +190,17 @@ b. Si Φ=28mWB, ¿Cuál es la densidad de flujo en Teslas?
 
 ![image](https://user-images.githubusercontent.com/84588860/127232502-30c91a8c-6dd2-446b-82f6-0c826ebc3f0c.png)
 
+![image](https://user-images.githubusercontent.com/84588860/127232585-6d4cd07f-38a5-41b4-a200-2a67bb925126.png)
 
+9.	Un núcleo con Dimensiones de 2cm x 3cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido?¿Si es de acero fundido?¿Si es de hoja de Acero con FA = 0.94?
 
+![image](https://user-images.githubusercontent.com/84588860/127232738-1544ace7-2dce-44b3-832b-621c8ab947c0.png)
+
+11.	Considere una vez más la figura 12-42. I=10A, N=40 vueltas, r1=5 cm y r2=7cm, ¿Qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/84588860/127232878-72316e8a-6336-494c-9628-4c7ddac08dce.png)
+
+![image](https://user-images.githubusercontent.com/84588860/127232954-0f4c0735-987d-4797-bb94-0c39a2005544.png)
 
 13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
