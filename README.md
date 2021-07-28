@@ -380,6 +380,9 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ![image](https://user-images.githubusercontent.com/84594486/127259176-786925b4-cd33-4f1a-8c40-5cdb46c44007.png)
 
+![image](https://user-images.githubusercontent.com/84594486/127260139-5779ab94-08ca-42fd-9dd0-5f157e088c23.png)
+
+
 **23. Una segunda bobina de 450 vueltas con I2 4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.**
 
 ![image](https://user-images.githubusercontent.com/84594486/127259218-0cdfabe3-0054-4767-af6c-b30f5ec96007.png)
