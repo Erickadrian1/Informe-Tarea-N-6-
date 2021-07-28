@@ -390,6 +390,8 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ## 4. Video: 
 
+https://www.youtube.com/watch?v=HW-vrVTaM7A
+
 ## 5. Conclusiones: 
 
 •	Entendimos como varios de los dispositivos que usamos comúnmente están enlazados con los circuitos magnéticos.
