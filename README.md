@@ -387,7 +387,7 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ![image](https://user-images.githubusercontent.com/84594486/127259218-0cdfabe3-0054-4767-af6c-b30f5ec96007.png)
 
-![image](https://user-images.githubusercontent.com/84594486/127259262-8ecfeb70e-fe76-4f28-862e-7c431e8afaf7.png)
+![image](https://user-images.githubusercontent.com/84594486/127260789-983b0c00-0f9a-4d4c-802e-dfd16a220b79.png)
 
 
 **25. Si el circuito de la figura 12-53 no tiene espacio y ф3 = 0.2 mWb, encuentre I.**
