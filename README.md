@@ -394,7 +394,7 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ![image](https://user-images.githubusercontent.com/84594486/127259244-fa96766d-b492-4bc2-ab3c-0ff6f09e84e7.png)
 
-![image](https://user-images.githubusercontent.com/84594486/127259273-80d9e5ae8-dfc8-4abe-a6f3-fbdf2f946bea.png)
+![image](https://user-images.githubusercontent.com/84594486/127261627-4345260c-d055-475b-abda-7e8478793ad0.png)
 
 
 **27. Si NI  644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, Ф .**
