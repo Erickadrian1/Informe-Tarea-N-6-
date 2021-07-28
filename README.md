@@ -424,3 +424,10 @@ https://www.youtube.com/watch?v=HW-vrVTaM7A
 • Luego de la resolución de los ejercicios aplicando los conceptos y ecuaciones de carga y descarga del capacitador en circuitos simples y complejos. Se puede concluir que se debe razonar el procedimiento paso a paso para obtener la solución correcta. Las curvas constantes de tiempo tienen la misma forma de onda de la descarga.  
 
 ## 6. Bibliografia: 
+
+•	Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
+•	http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro16/28_circuitos_rc_resistencia_en_capasitore. html
+
+•	SEARS, Francis W., ZEMANSKY, Mark W., YOUNG, Hugh D., FREEDMAN, Roger A., “Física Universitaria con física moderna”. Vol. 2. Undécima edición. 2005.
+
