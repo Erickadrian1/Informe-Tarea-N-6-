@@ -376,6 +376,24 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ![image](https://user-images.githubusercontent.com/84594486/127229810-da7e7f3d-a5b4-4bd0-ad12-e16b0bc83349.png)
 
+**21. Para el circuito de la figura 12-51,\ Ф=  30 x uWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84594486/127259176-786925b4-cd33-4f1a-8c40-5cdb46c44007.png)
+
+**23. Una segunda bobina de 450 vueltas con I2 4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
+
+![image](https://user-images.githubusercontent.com/84594486/127259218-0cdfabe3-0054-4767-af6c-b30f5ec96007.png)
+
+![image](https://user-images.githubusercontent.com/84594486/127259262-8ecfeb70e-fe76-4f28-862e-7c431e8afaf7.png)
+
+
+**25. Si el circuito de la figura 12-53 no tiene espacio y ф3 = 0.2 mWb, encuentre I.
+
+![image](https://user-images.githubusercontent.com/84594486/127259244-fa96766d-b492-4bc2-ab3c-0ff6f09e84e7.png)
+
+![image](https://user-images.githubusercontent.com/84594486/127259273-80d9e5ae8-dfc8-4abe-a6f3-fbdf2f946bea.png)
+
+
 **27. Si NI  644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, Ф .**
 
 ![image](https://user-images.githubusercontent.com/84594486/127229857-49b83f46-bd42-4040-beca-207c9cfd270e.png)
