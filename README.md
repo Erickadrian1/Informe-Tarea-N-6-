@@ -364,7 +364,7 @@ Usamos el A1 para calcular la densidad de flujo porque la densidad se encuentra 
 
 ![image](https://user-images.githubusercontent.com/84594486/127229498-dd04fd59-992a-47af-9827-a1776126c6b7.png)
 
-![image](https://user-images.githubusercontent.com/84594486/127229530-47f85706-7464-4f73-8c13-34fc4f89e0bf.png)
+![image](https://user-images.githubusercontent.com/84594486/127260070-f2c857cc-da04-4fe6-8fb3-86cabb967a7f.png)
 
 **Ya que ф no cambia, B y H serán los mismos que antes. Entonces, B= 0.4 T, H_{hierro}= 1060 Av/m, H_{acero}= 300 Av/m**
 
